@@ -1,7 +1,7 @@
 # leetcode
 # 🚀 LeetCode Solutions Repository
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.  
+This repository contains my solutions to Java problems from LeetCode.  
 I am solving problems daily to improve problem-solving skills and prepare for technical interviews.
 
 ---
