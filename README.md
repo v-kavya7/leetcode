@@ -1,1 +1,81 @@
 # leetcode
+# 🚀 LeetCode Solutions Repository
+
+This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.  
+I am solving problems daily to improve problem-solving skills and prepare for technical interviews.
+
+---
+
+## 📊 Progress
+
+- 🧠 Total Problems Solved: 0  
+- 📅 Started On: April 2026  
+- 🔥 Daily Goal: 2–3 problems  
+
+---
+
+## 👤 LeetCode Profile
+
+👉 https://leetcode.com/kavya_7888/
+
+---
+
+## 📚 Topics Covered
+
+- Arrays  
+- Strings  
+- Hashing  
+- Sliding Window  
+- Two Pointers  
+- Recursion & Backtracking  
+- Trees  
+- Graphs  
+- Dynamic Programming  
+
+---
+
+## 📁 Repository Structure
+leetcode-solutions/
+├── Arrays/
+├── Strings/
+├── Hashing/
+├── Sliding-Window/
+├── Two-Pointers/
+├── Trees/
+├── Graphs/
+└── README.md
+
+---
+
+## 📝 How Solutions Are Organized
+
+- Each problem is stored in its respective topic folder  
+- File name = problem name  
+- Each file includes:
+  - Problem link  
+  - Approach (short explanation)  
+  - Time & Space Complexity  
+
+---
+
+## 🎯 Goals
+
+- Build strong DSA foundation  
+- Improve coding efficiency  
+- Prepare for coding interviews  
+- Maintain consistency  
+
+---
+
+## ⚡ Notes
+
+- Language used: Java (or your preferred language)  
+- Focus on writing clean and optimized code  
+- Repository is updated regularly  
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, feel free to ⭐ it!
+
