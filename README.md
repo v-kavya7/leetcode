@@ -67,14 +67,6 @@ leetcode-solutions/
 
 ---
 
-## ⚡ Notes
-
-- Language used: Java (or your preferred language)  
-- Focus on writing clean and optimized code  
-- Repository is updated regularly  
-
----
-
 ## ⭐ Support
 
 If you find this repository helpful, feel free to ⭐ it!
