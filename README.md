@@ -34,20 +34,6 @@ I am solving problems daily to improve problem-solving skills and prepare for te
 
 ---
 
-## 📁 Repository Structure
-leetcode-solutions/
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Sliding-Window/
-├── Two-Pointers/
-├── Trees/
-├── Graphs/
-└── README.md
-
-
----
-
 
 ## 📝 How Solutions Are Organized
 
