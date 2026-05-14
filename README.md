@@ -8,7 +8,7 @@ I am solving problems daily to improve problem-solving skills and prepare for te
 
 ## 📊 Progress
 
-- 🧠 Total Problems Solved: 6  
+- 🧠 Total Problems Solved: 11
 - 📅 Started On: April 2026  
 - 🔥 Daily Goal: 2–3 problems  
 
